@@ -1,0 +1,129 @@
+Skyrim - Misc.bsa
+Skyrim - Shaders.bsa
+Skyrim - Interface.bsa
+Skyrim - Animations.bsa
+Skyrim - Meshes0.bsa
+Skyrim - Meshes1.bsa
+Skyrim - Sounds.bsa
+Skyrim - Voices_en0.bsa
+Skyrim - Textures0.bsa
+Skyrim - Textures1.bsa
+Skyrim - Textures2.bsa
+Skyrim - Textures3.bsa
+Skyrim - Textures4.bsa
+Skyrim - Textures5.bsa
+Skyrim - Textures6.bsa
+Skyrim - Textures7.bsa
+Skyrim - Textures8.bsa
+Skyrim - Patch.bsa
+Unofficial Skyrim Special Edition Patch.bsa
+Unofficial Skyrim Special Edition Patch - Textures.bsa
+SkyUI_SE.bsa
+iHUD.bsa
+Alternate Start - Live Another Life - Textures.bsa
+Alternate Start - Live Another Life.bsa
+Alternate Start -- New Beginnings.bsa
+Alternate Start - Dragonborn.bsa
+RaceMenu.bsa
+Blacksmith Forge Water Fix SE USSEP.bsa
+Atlas Map Markers - Textures.bsa
+Atlas Map Markers.bsa
+Weapons Armor Clothing & Clutter Fixes.bsa
+Weapons Armor Clothing & Clutter Fixes - Textures.bsa
+WACCF_Armor and Clothing Extension.bsa
+WACCF_Armor and Clothing Extension - Textures.bsa
+Complete Crafting Overhaul_Remastered - Textures.bsa
+Complete Crafting Overhaul_Remastered.bsa
+Hearthfires Houses Building Fix.bsa
+Prometheus_No_snow_Under_the_roof.bsa
+aMidianBorn Armor Variants Lite.bsa
+Book Covers Skyrim - Textures.bsa
+Book Covers Skyrim.bsa
+dD - Enhanced Blood Main.bsa
+DeadlySpellImpacts - Textures.bsa
+Morning Fogs SSE.bsa
+DustEffectsSSE.bsa
+S3DRocks.bsa
+S3DRocks - Textures.bsa
+SoundsofSkyrimComplete.bsa
+Dawn of Skyrim - Textures.bsa
+Dawn of Skyrim.bsa
+Paradise_City_RESOURCES.bsa
+Paradise_City_RESOURCES - Textures.bsa
+CollegeOfWinterholdImmersive.bsa
+CollegeOfWinterholdImmersive - Textures.bsa
+FortDawnguardImmersive - Textures.bsa
+FortDawnguardImmersive.bsa
+Tel Mithryn.bsa
+Enhanced Solitude SSE.bsa
+OldHroldanRuins.bsa
+Mixwater Mill Reborn.bsa
+AngasMillReborn.bsa
+Skaal Village.bsa
+Audio Overhaul Skyrim.bsa
+Complete Alchemy & Cooking Overhaul.bsa
+Skyrim Immersive Creatures Special Edition.bsa
+Skyrim Immersive Creatures Special Edition - Textures.bsa
+Cutting Room Floor.bsa
+Cutting Room Floor - Textures.bsa
+Karthwasten - Let The Silver Flow.bsa
+Kato's Falkreath.bsa
+Kato's Riverwood.bsa
+StrangeRunes - Textures.bsa
+StrangeRunes.bsa
+KrittaKittyHorsesForSSE.bsa
+KrittaKittyHorsesWhiteFrost.bsa
+RealRabbitsHD - Textures.bsa
+RealRabbitsHD.bsa
+BecomeABard.bsa
+Bears of the North.bsa
+Bears of the North - Textures.bsa
+Weathered Road Signs.bsa
+Arvak Reborn.bsa
+Smithing Perks Overhaul SE.bsa
+Simple Smithing Overhaul.bsa
+Ordinator - Perks of Skyrim.bsa
+Ordinator - Perks of Skyrim - Textures.bsa
+Trade & Barter.bsa
+Headhunter - Bounties Redone.bsa
+Hothtrooper44_Armor_Ecksstra.bsa
+Hothtrooper44_ArmorCompilation.bsa
+MLU.bsa
+NewArmoury.bsa
+Character Behaviors Enhanced.bsa
+GirlHeavyArmor.bsa
+C.O.I.N.bsa
+C.O.I.N - Textures.bsa
+Immersive Citizens - AI Overhaul.bsa
+ELFX Shadows.bsa
+DT_Hjertesten Hall.bsa
+Eli_Halla - Textures.bsa
+Eli_Halla.bsa
+MCMHelper.bsa
+DragonWar.bsa
+SkyrimsUniqueTreasures - Textures.bsa
+SkyrimsUniqueTreasures.bsa
+LegacyoftheDragonborn.bsa
+LegacyoftheDragonborn - Textures.bsa
+DBM_RelicHunter.bsa
+DBM_RelicHunter - Textures.bsa
+DBM_InnSoaps_Patch.bsa
+SL01AmuletsSkyrim.bsa
+SL01AmuletsSkyrim - Textures.bsa
+SkyrimSpearMechanic.bsa
+Artifacts - Textures.bsa
+Artifacts.bsa
+DBM_CloaksofSkyrim_Patch.bsa
+DBM_ArtifactsofSkyrim_Patch.bsa
+DBM_RelicNotifications.bsa
+AHZmoreHUD.bsa
+AHZmoreHUDInventory.bsa
+wavetest - Textures.bsa
+wavetest.bsa
+MaximumCarnage.bsa
+DAR - IsPC1stPerson.bsa
+Odin - Skyrim Magic Overhaul - Textures.bsa
+Odin - Skyrim Magic Overhaul.bsa
+Cathedral Weathers - Textures.bsa
+Cathedral Weathers.bsa
+HD Lods SSE.bsa

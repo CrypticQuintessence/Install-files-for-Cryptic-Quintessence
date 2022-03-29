@@ -1,0 +1,42 @@
+If you've downloaded my modlist, you can download the files listed below AFTER completely 
+downloading the modlist and playing at least one time and making a save game.
+
+place these files in MO2/Profiles/Default/
+
+
+archives.txt
+
+initweaks.ini
+
+loadorder.txt
+
+lockedorder.txt
+
+modlist.txt
+
+plugins.txt
+
+settings.ini
+
+skyrim.ini
+
+skyrimcustom.ini
+
+skyrimprefs.ini
+
+
+
+
+Visit my Youtube Channel @
+https://www.youtube.com/channel/UCbpbGRJs70w9Ol4mXUf9t7Q
+
+Visit my Github @
+https://github.com/CrypticQuintessence/CrypticQuintessence/blob/main/Installation%20Instructions.md
+
+Visit my Reddit page @
+https://www.reddit.com/r/crypticquintessence/
+
+Contact me on Reddit @
+u/SpaceEngineerGuy420
+
+Thanks for looking and enjoy!
